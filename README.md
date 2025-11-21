@@ -3,7 +3,7 @@
 A static Netflix-like landing interface built with **HTML & CSS** for learning and portfolio purposes.
 
 ## Live Demo
-https://Priyankaw120.github.io/REPO-NAME/
+https://Priyankaw120.github.io/Netflix/
 
 ## Features
 - Pure front-end clone using semantic HTML and CSS
